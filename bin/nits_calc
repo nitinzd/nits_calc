@@ -1,2 +1,3 @@
+#!/usr/bin/env ruby
 require "nits_calc"
 puts NitsCalc.result(ARGV[0])
