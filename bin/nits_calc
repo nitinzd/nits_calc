@@ -1,0 +1,2 @@
+require "nits_calc"
+puts NitsCalc.result(ARGV[0])
