@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = NitsCalc::VERSION
   spec.authors       = ["Nitin Dhaware"]
   spec.email         = ["nitin@techvision.net.in"]
-  spec.date = '1/16/2014'
+  spec.date         = '16-1-2014'
   spec.description   = "Trying to learn that how to make a gem."
   spec.summary       = "The gem evaluates any code though it is mentioned calculater. This is just for fun..."
   spec.homepage      = ""
